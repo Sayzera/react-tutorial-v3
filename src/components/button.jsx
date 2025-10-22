@@ -1,52 +1,64 @@
-const Button = (props) => {
+const Button = ({ variant, btnText, handleClick }) => {
+  // const {variant, btnText} = props;
+
+  // props.variant
+  // props.btnText
+
   const styles = {
     success: {
+      border: "1px solid white",
+      borderRadius: "10px",
       padding: 10,
-      borderRadius: 10,
-      backgroundColor: "green",
       color: "white",
+      cursor: "pointer",
+      backgroundColor: "green",
+    },
+    info: {
+      border: "1px solid white",
+      borderRadius: "10px",
+      padding: 10,
+      color: "white",
+      cursor: "pointer",
+      backgroundColor: "blue",
     },
     danger: {
+      border: "1px solid white",
+      borderRadius: "10px",
       padding: 10,
-      borderRadius: 10,
-      backgroundColor: "red",
       color: "white",
+      cursor: "pointer",
+      backgroundColor: "red",
     },
     secondary: {
+      border: "1px solid white",
+      borderRadius: "10px",
       padding: 10,
-      borderRadius: 10,
-      backgroundColor: "grey",
       color: "white",
+      cursor: "pointer",
+      backgroundColor: "gray",
     },
     default: {
+      border: "1px solid white",
+      borderRadius: "10px",
       padding: 10,
-      borderRadius: 10,
-      backgroundColor: "grey",
       color: "white",
+      cursor: "pointer",
+      backgroundColor: "gray",
     },
   };
 
+  const _variant = variant ?? "default";
+
   return (
     <button
+      style={styles[_variant]}
       onClick={() => {
-        props?.onClick && typeof props.onClick === "function"
-          ? props.onClick()
-          : null;
+        handleClick && typeof handleClick === "function" && handleClick();
       }}
-      style={styles[props.variant ?? "default"]}
     >
-      {props.btnText}
+      {btnText}
     </button>
   );
 };
 
-// const Button2 = () => {
-//     return (
-//         <div>button</div>
-//     )
-// }
-
-export {
-  Button,
-  // Button2
-};
+export { Button };

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "p001",
+    "ad": "Elif",
+    "soyad": "Yılmaz",
+    "yas": 28,
+    "departman": "Yazılım",
+    "pozisyon": "Frontend Developer",
+    "maas": 42000,
+    "aktif": true
+  },
+  {
+    "id": "p002",
+    "ad": "Mert",
+    "soyad": "Kaya",
+    "yas": 31,
+    "departman": "Yazılım",
+    "pozisyon": "Backend Developer",
+    "maas": 45000,
+    "aktif": true
+  },
+  {
+    "id": "p003",
+    "ad": "Zeynep",
+    "soyad": "Demir",
+    "yas": 25,
+    "departman": "Tasarım",
+    "pozisyon": "UI/UX Designer",
+    "maas": 39000,
+    "aktif": true
+  },
+  {
+    "id": "p004",
+    "ad": "Ahmet",
+    "soyad": "Çelik",
+    "yas": 34,
+    "departman": "İnsan Kaynakları",
+    "pozisyon": "İK Uzmanı",
+    "maas": 37000,
+    "aktif": true
+  },
+  {
+    "id": "p005",
+    "ad": "Deniz",
+    "soyad": "Aydın",
+    "yas": 29,
+    "departman": "Finans",
+    "pozisyon": "Muhasebeci",
+    "maas": 41000,
+    "aktif": true
+  },
+  {
+    "id": "p006",
+    "ad": "Selin",
+    "soyad": "Koç",
+    "yas": 26,
+    "departman": "Yazılım",
+    "pozisyon": "QA Engineer",
+    "maas": 38000,
+    "aktif": true
+  },
+  {
+    "id": "p007",
+    "ad": "Bora",
+    "soyad": "Arslan",
+    "yas": 37,
+    "departman": "Pazarlama",
+    "pozisyon": "Dijital Pazarlama Uzmanı",
+    "maas": 40000,
+    "aktif": false
+  },
+  {
+    "id": "p008",
+    "ad": "Ece",
+    "soyad": "Şahin",
+    "yas": 23,
+    "departman": "Yazılım",
+    "pozisyon": "Stajyer Yazılımcı",
+    "maas": 15000,
+    "aktif": true
+  },
+  {
+    "id": "p009",
+    "ad": "Can",
+    "soyad": "Öztürk",
+    "yas": 32,
+    "departman": "Satış",
+    "pozisyon": "Satış Temsilcisi",
+    "maas": 36000,
+    "aktif": true
+  },
+  {
+    "id": "p010",
+    "ad": "Burcu",
+    "soyad": "Polat",
+    "yas": 30,
+    "departman": "Pazarlama",
+    "pozisyon": "Kampanya Yöneticisi",
+    "maas": 42000,
+    "aktif": true
+  },
+  {
+    "id": "p011",
+    "ad": "Hakan",
+    "soyad": "Erdoğan",
+    "yas": 35,
+    "departman": "Yazılım",
+    "pozisyon": "Tech Lead",
+    "maas": 60000,
+    "aktif": true
+  }
+]

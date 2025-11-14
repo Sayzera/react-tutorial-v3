@@ -27,7 +27,7 @@ export default function ReusabilityComponent() {
 
 
 /***
- * Tekrar kullanılabilir bir komponent oluşturalım türü input olsun 
+ * TODO: Tekrar kullanılabilir bir komponent oluşturalım türü input olsun 
  * type kısmı dinamik olsun parametre olarak text verirsek text olacak number verirsek number olacak
  * required true dersek başına yıldız işareti eklesin
  * <Input type="number" label="Kullanıcı Adı*" placeholder="Kullanıcı adı giriniz" required={true} />

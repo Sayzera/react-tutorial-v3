@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Ali", "age": 20, "grade": "A" },
+  { "id": 2, "name": "Ayşe", "age": 21, "grade": "B" },
+  { "id": 3, "name": "Mehmet", "age": 19, "grade": "A" },
+  { "id": 4, "name": "Zeynep", "age": 22, "grade": "C" },
+  { "id": 5, "name": "Elif", "age": 20, "grade": "B" },
+  { "id": 6, "name": "Mert", "age": 23, "grade": "A" },
+  { "id": 7, "name": "Deniz", "age": 18, "grade": "B" },
+  { "id": 8, "name": "Kerem", "age": 21, "grade": "C" },
+  { "id": 9, "name": "Seda", "age": 19, "grade": "A" },
+  { "id": 10, "name": "Burak", "age": 22, "grade": "B" },
+  { "id": 11, "name": "Gül", "age": 20, "grade": "A" },
+  { "id": 12, "name": "Ahmet", "age": 21, "grade": "B" },
+  { "id": 13, "name": "Fatma", "age": 19, "grade": "A" },
+  { "id": 14, "name": "Hasan", "age": 22, "grade": "C" },
+  { "id": 15, "name": "İrem", "age": 20, "grade": "B" },
+  { "id": 16, "name": "Kaan", "age": 23, "grade": "A" },
+  { "id": 17, "name": "Leyla", "age": 18, "grade": "B" },
+  { "id": 18, "name": "Mustafa", "age": 21, "grade": "C" },
+  { "id": 19, "name": "Nurcan", "age": 19, "grade": "A" },
+  { "id": 20, "name": "Ömer", "age": 22, "grade": "B" }
+]

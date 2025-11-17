@@ -1,0 +1,23 @@
+[
+  { "id": 1, "task": "React projesini başlat", "isDone": true },
+  { "id": 2, "task": "Component yapısını oluştur", "isDone": true },
+  { "id": 3, "task": "State yönetimini ekle", "isDone": false },
+  { "id": 4, "task": "Props ile veri aktar", "isDone": true },
+  { "id": 5, "task": "Event handler'ları yaz", "isDone": false },
+  { "id": 6, "task": "Conditional rendering ekle", "isDone": true },
+  { "id": 7, "task": "Liste rendering yap", "isDone": false },
+  { "id": 8, "task": "CSS stilleri ekle", "isDone": true },
+  { "id": 9, "task": "Form validasyonu yap", "isDone": false },
+  { "id": 10, "task": "API entegrasyonu ekle", "isDone": false },
+  { "id": 11, "task": "Error handling yap", "isDone": false },
+  { "id": 12, "task": "Loading state ekle", "isDone": true },
+  { "id": 13, "task": "Responsive tasarım yap", "isDone": false },
+  { "id": 14, "task": "Test yaz", "isDone": false },
+  { "id": 15, "task": "Dokümantasyon hazırla", "isDone": true },
+  { "id": 16, "task": "Code review yap", "isDone": false },
+  { "id": 17, "task": "Performance optimizasyonu", "isDone": false },
+  { "id": 18, "task": "Accessibility iyileştir", "isDone": true },
+  { "id": 19, "task": "Deploy et", "isDone": false },
+  { "id": 20, "task": "Kullanıcı geri bildirimlerini topla", "isDone": false }
+]
+

@@ -1,0 +1,23 @@
+[
+  { "id": 1, "name": "Ahmet Yılmaz", "role": "admin" },
+  { "id": 2, "name": "Ayşe Demir", "role": "user" },
+  { "id": 3, "name": "Mehmet Kaya", "role": "admin" },
+  { "id": 4, "name": "Zeynep Şahin", "role": "user" },
+  { "id": 5, "name": "Ali Çelik", "role": "user" },
+  { "id": 6, "name": "Fatma Öztürk", "role": "admin" },
+  { "id": 7, "name": "Mustafa Arslan", "role": "user" },
+  { "id": 8, "name": "Elif Yıldız", "role": "user" },
+  { "id": 9, "name": "Burak Koç", "role": "admin" },
+  { "id": 10, "name": "Seda Aydın", "role": "user" },
+  { "id": 11, "name": "Kerem Doğan", "role": "user" },
+  { "id": 12, "name": "Deniz Özdemir", "role": "admin" },
+  { "id": 13, "name": "Gül Yavuz", "role": "user" },
+  { "id": 14, "name": "Hasan Kılıç", "role": "user" },
+  { "id": 15, "name": "İrem Aslan", "role": "admin" },
+  { "id": 16, "name": "Kaan Bulut", "role": "user" },
+  { "id": 17, "name": "Leyla Çetin", "role": "user" },
+  { "id": 18, "name": "Ömer Şimşek", "role": "admin" },
+  { "id": 19, "name": "Nurcan Aktaş", "role": "user" },
+  { "id": 20, "name": "Mert Güneş", "role": "admin" }
+]
+
